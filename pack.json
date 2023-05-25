@@ -1,6 +1,1 @@
-{
-	"name": "Name",
-	"description": "Description",
-	"restart":false,
-	"color": [170, 0, 255]
-}
+{"color":[210,0,0],"description":"Some custom random music and chart bullshit, by Bananagirl and their team!","name":"Bananagirl's Custom Charts!","restart":false}
