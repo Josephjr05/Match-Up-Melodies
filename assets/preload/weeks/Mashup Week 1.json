@@ -1,0 +1,90 @@
+{
+	"storyName": "Random Bullshit Go!",
+	"difficulties": "Easy, Normal, Hard",
+	"weekBackground": "philly",
+	"hideFreeplay": false,
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"witchcraft",
+			"chara",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"happiness",
+			"soinc_and_bob",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"walk_on_water",
+			"skyblue_and_void",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"NGNL",
+			"mom"
+		],
+		[
+			"Gunshot-Mania",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Dreamer",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bars_Wars",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Light-It-Up",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"Mom",
+		"bf",
+		"Gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Mashup Week 1"
+}
