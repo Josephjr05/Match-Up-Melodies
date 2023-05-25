@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-11,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chara left"
+		},
+		{
+			"offsets": [
+				3,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chara down"
+		},
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chara up"
+		},
+		{
+			"offsets": [
+				3,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chara right"
+		},
+		{
+			"offsets": [
+				-4,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cambio",
+			"indices": [],
+			"name": "chara zave"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 27,
+			"anim": "idle",
+			"indices": [],
+			"name": "chara000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 27,
+			"anim": "cuchillo",
+			"indices": [],
+			"name": "chara zrick"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chara",
+	"position": [
+		90,
+		340
+	],
+	"healthicon": "chara",
+	"flip_x": false,
+	"healthbar_colors": [
+		229,
+		37,
+		35
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

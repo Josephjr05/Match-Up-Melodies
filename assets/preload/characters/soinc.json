@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-30
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				-40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				146
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-250,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "singRIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				30,
+				-106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "ASS",
+			"indices": [],
+			"name": "ASS"
+		},
+		{
+			"offsets": [
+				30,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "FUCK",
+			"indices": [],
+			"name": "FUCK"
+		},
+		{
+			"offsets": [
+				20,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "BOWSER",
+			"indices": [],
+			"name": "BOWSER"
+		},
+		{
+			"offsets": [
+				110,
+				-110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "NO",
+			"indices": [],
+			"name": "NO"
+		},
+		{
+			"offsets": [
+				310,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "BOOM",
+			"indices": [],
+			"name": "BOOM"
+		},
+		{
+			"offsets": [
+				-1,
+				29
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "PINGAS",
+			"indices": [],
+			"name": "PINGAS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soinc",
+	"position": [
+		40,
+		180
+	],
+	"healthicon": "soinc",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}
